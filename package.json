@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "@applabpro/test",
+  "description": "description",
+  "author": {
+    "name": "Dariusz Sobkowicz",
+    "email": "darek04@host767963.xce.pl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.dev/applabpro/test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/applabpro"
+  }
+}
